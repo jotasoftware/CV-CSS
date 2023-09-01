@@ -1,0 +1,87 @@
+body{
+    margin-left: 20px;
+    background-color: rgb(144, 170, 189);
+    line-height: 30px;
+}
+
+#nome{
+    text-shadow: 3px 3px 2px rgb(213, 213, 213);
+    letter-spacing: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-color: gray;
+    border-radius: 40px;
+    padding: 10px 0;
+    font-style: inherit;
+    text-decoration: solid;
+
+}
+
+.titles{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-stroke: 1px white;
+    font-style: italic;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.divisao1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-size: 18px;
+}
+.divisao2{
+    display: flex;
+    align-items: flex-start;
+}
+.divisao2 section{
+    margin: 3px;
+    flex: 1;
+    background-color: gray;
+    border-radius: 40px;
+    padding-left: 20px;
+    color: white;
+}
+.divisao2 section a{
+    color: white;
+}
+
+
+
+.img-perfil{
+    background-color: white;
+    border: solid 7px white;
+}
+.img-ods{
+    border: solid 3px white;
+}
+
+.caption{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+a{
+    color: black;
+    transition: 0.4s linear color;
+    text-decoration: underline dotted;
+}
+a:hover{
+    color: rgb(4, 4, 208)
+}
+
+ul{
+    list-style: square;
+}
+
+.footer{
+    line-height: 15px;
+}
+
