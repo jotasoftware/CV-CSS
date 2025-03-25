@@ -1,6 +1,4 @@
-# Meu Primeiro Projeto
-
-![Badge do Projeto](https://img.shields.io/badge/status-concluído-green)
+# Meu Primeiro CV
 
 > Este foi o meu primeiro contato com o desenvolvimento web! Um projeto simples, mas muito especial, pois marcou o início da minha jornada na área de tecnologia. Utilizei HTML e CSS para criar um currículo online e aprender os fundamentos da construção de páginas web.
 
